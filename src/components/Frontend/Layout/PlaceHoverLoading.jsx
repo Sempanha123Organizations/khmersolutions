@@ -26,9 +26,6 @@ const PlaceHoverLoading = () => {
               className="col-lg-5 col-md-12 "
             >
               <div className="main-slides-image">
-                <img
-                  alt="Camgotech Image"
-                />
               </div>
             </div>
           </div>
