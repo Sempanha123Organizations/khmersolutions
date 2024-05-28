@@ -32,7 +32,7 @@ const Footer = () => {
                 <ul className="widget-social">
                   <li>
                     <a
-                      href="https://www.facebook.com/camgotech"
+                      href="https://www.facebook.com/profile.php?id=61559922759720&mibextid=LQQJ4d"
                       target="_blank"
                       rel="noreferrer"
                     >
@@ -41,7 +41,7 @@ const Footer = () => {
                   </li>
                   <li>
                     <a
-                      href="https://t.me/camgotech"
+                      href="https://t.me/sempanha123456"
                       target="_blank"
                       rel="noreferrer"
                     >
