@@ -78,7 +78,7 @@ const MainSlide = () => {
                         <p data-aos="fade-down">{item.discription}</p>
                         <div className="slides-btn">
                           <a
-                            href="https://t.me/camgotech"
+                            href="https://t.me/sempanha123456"
                             className="default-btn"
                             target="_blank"
                             rel="noopener noreferrer"
