@@ -46,10 +46,10 @@ const Partner = () => {
             {partners.map(partner => (
             <SwiperSlide key={partner.id}>
               <div className="partner-card" >
-                <a href="#0">
+                <a>
                   <img
                     src={partner.imagepatner}
-                    alt="Camgotech Technology | PHP"
+                    alt="khmer solution"
                   />
                 </a>
               </div>

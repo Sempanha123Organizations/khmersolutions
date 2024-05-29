@@ -8,6 +8,19 @@ import templateImage5 from "../../../assets/images/website/Tiya Golf Club Templa
 import templateImage6 from "../../../assets/images/website/Scholar Template.jpg";
 import templateImage7 from "../../../assets/images/website/Barber Shop Template.jpg";
 import templateImage8 from "../../../assets/images/website/Pod Talk Template.jpg";
+import templateImage9 from "../../../assets/images/website/Stand Blog Template.jpg";
+import templateImage10 from "../../../assets/images/website/Eatery Template.jpg";
+import templateImage11 from "../../../assets/images/website/Zigzag Template.jpg";
+import templateImage12 from "../../../assets/images/website/KLINIK FREE CSS TEMPLATE.png";
+import templateImage13 from "../../../assets/images/website/Logistica – Shipping Company Website Template.png";
+import templateImage14 from "../../../assets/images/website/Company Website Template.png";
+import templateImage15 from "../../../assets/images/website/SEO Master – SEO Agency Website Template.png";
+import templateImage16 from "../../../assets/images/website/Gymnast – Gym & Fitness Website Template.png";
+import templateImage17 from "../../../assets/images/website/Fruitables – Vegetable Website Template.png";
+import templateImage18 from "../../../assets/images/website/Hairnic – Single Product Website Template.png";
+import templateImage19 from "../../../assets/images/website/MultiShop – Online Shop Website Template.png";
+import templateImage20 from "../../../assets/images/website/Securex – CCTV Camera Website Template.png";
+import templateImage21 from "../../../assets/images/website/Baker – Cake & Bakery Website Template.png";
 
 
 import { useParams } from "react-router-dom";
@@ -74,9 +87,99 @@ const DetailTemplate = () => {
         "Pod Talk features a beautiful ocean blue gradient waves in the header and footer designs. Homepage has a banner slider for artists or podcasters. Also, listing page and detail page are included. Contact form and maps are also provided. This template has a dropdown menu which is suitable for multiple-page websites. Header has a search box and footer has a newsletter subscription form.",
       templateImage: templateImage8,
     },
+    {
+      id: 10,
+      title: "Stand Blog Template",
+      description:
+        "Single blog post, blog entries page, about page, contact page, and main slider page. This 2-column blog layout can be used for multiple website purposes.",
+      templateImage: templateImage9,
+    },
+    {
+      id: 11,
+      title: "Eatery Template",
+      description:
+        "Eatery is a cafe and restaurant website CSS template. It includes a beautiful image slider, a hover zoom image gallery, and white background sections.",
+      templateImage: templateImage10,
+    },
+    {
+      id: 12,
+      title: "Zigzag Template",
+      description:
+        "ZigZag uses diagonal background layers to make attractive design. ZigZag is suitable for websites with minimal contents.",
+      templateImage: templateImage11,
+    },
+    {
+      id: 13,
+      title: "KLINIK  TEMPLATE",
+      description:
+        "KLINIK  TEMPLATE is a doctor or nurse website  template. It includes a beautiful image suitable for websites, and white background sections.",
+      templateImage: templateImage12,
+    },
+    {
+      id: 14,
+      title: "Logistica – Shipping Company Website Template",
+      description:
+        "Logistica is a stylish, modern, powerful, and free logistics & shipping company website template with a professional design perfect for any trucking agency, transport bureau, logistics firm, and cargo business. It also fits warehousing, transportation, corporate shipping company, package delivery, and freight services websites.",
+      templateImage: templateImage13,
+    },
+    {
+      id: 15,
+      title: "Company Website Template",
+      description:
+        "A very lightweight and fully responsive IT company website template that is suitable to build a business website for software companies or any other companies. This pre-built HTML template is made with the Bootstrap 4 framework that is very easy to customize and use to create a modern and good looking website.",
+      templateImage: templateImage14,
+    },
+    {
+      id: 16,
+      title: "SEO Master – SEO Agency Website Template",
+      description:
+        "SEO Master is a powerful, easy to use, and highly customizable free SEO agency website template specially designed for SEO, SEM, SaaS, B2B, Startup, digital marketing, email marketing, tech agency, IT business, and corporate websites. The template is fully responsive and looks awesome on tablets and mobile devices. You can use this free HTML template to build your SEO & digital marketing related business website. Creating an agency website from scratch may be a challenging task. With SEO Master – our free SEO agency HTML template, you can easily build a multi-page or one page SEO agency website with no hassle at all. This free template is built with HTML5, CSS3, and Bootstrap v5 framework. It comes with well-commented and developer-friendly coding structure that will help you to create an impactful agency website easily without having extra coding knowledge.",
+      templateImage: templateImage15,
+    },
+    {
+      id: 17,
+      title: "Gymnast – Gym & Fitness Website Template",
+      description:
+        "People are more health-conscious. They are always alert about their fitness. They try to keep a part in their daily lives to exercise at least 30 minutes a day. Nowadays, the gym and fitness centers are being more popular and using online to reach more audiences. We are here with our best free gym website template you can download and use to build an unstoppable online presentation for your gym or fitness center.You may know that there are different online platforms to reach the audience. For example, you can choose YouTube videos or social media to reach your target audience. But you can’t imagine how a professional website for your gym and fitness center will help you to reach your target audience. Your website built using our gym web template will help you to achieve more audiences, maintain a professional business portfolio, and join users to your gym classes easily. GYMNAST is a fresh and modern gym HTML website template perfectly suitable for gym centers, fitness clubs, yoga classes, pilates trainers, personal trainers, and any other health and fitness-related websites. This template comes with a unique, creative, and professional look that will help you to promote your gym and fitness center and get as many customers as possible.",
+      templateImage: templateImage16,
+    },
+    {
+      id: 18,
+      title: "Fruitables – Vegetable Website Template",
+      description:
+        "Fruitables comes with a responsive and mobile-friendly design that adapts flawlessly to all modern devices. It ensures a seamless shopping experience for your customers across desktops, laptops, tablets, and smartphones. You can showcase your fresh fruits and vegetables with stunning visuals. This free website template provides pre-designed product showcase sections that allow you to present your organic fruits and vegetables with product images, detailed descriptions, and pricing information.",
+      templateImage: templateImage17,
+    },
+    {
+      id: 19,
+      title: "Hairnic – Single Product Website Template",
+      description:
+        "Hairnic is a free single product website template crafted to showcase your beauty and cosmetic products. With its clean and responsive design, we have poured our hearts into creating it. We ensure that Hairnic will assist you in promoting and expanding your business, serving as an ideal HTML website template for presenting your modern business. It suits various single-product businesses, including beauty products, cosmetics, skincare items, haircare products, electronics, digital goods, and much more.",
+      templateImage: templateImage18,
+    },
+    {
+      id: 20,
+      title: "MultiShop – Online Shop Website Template",
+      description:
+        "MultiShop is a free online shop website template specially designed for fashion, clothes, bags, shoes, jewelry, diamond, sports, electronics, computers, mobile, tools, home goods, gadgets, food, coffee, chocolate, cake, and multipurpose e-commerce store websites. The template is looking good with great colors combination and its clean, modern, and responsive layout. This online store website template is perfect for small to medium business owners who want to sell their products online.",
+      templateImage: templateImage19,
+    },
+    {
+      id: 21,
+      title: "Securex – CCTV Camera Website Template",
+      description:
+        "Securex is a professional and mobile-friendly free CCTV camera website template that has a beautiful and unique design and will be the best suited for your online web presence. It has a fully responsive layout and tested on all major handheld devices. Securex comes with all necessary features for your online presence like service, project, company features, quote form, testimonial, team page, etc. Securex – free CCTV camera HTML template suited for all security companies and agencies who offer various security-related services like CCTV camera, IP camera, video camera, digital door lock, security camera, home automation, security guard, safeguard, bodyguard, surveillance camera, video surveillance, event security, etc.",
+      templateImage: templateImage20,
+    },
+    {
+      id: 22,
+      title: "Baker – Cake & Bakery Website Template",
+      description:
+        "Baker – free cake & bakery shop template is specially designed for bakery, cake shop & pastry store, coffee shop, ice cream shop, chocolate, pizza, burger, restaurant, yogurt, biscuit, cake designer, and other similar food business websites. It’s extremely easy to use and perfect for beginners.",
+      templateImage: templateImage21,
+    },
 
   ];
-
 
 
   const website = websites.find(website => website.id === parseInt(id));
