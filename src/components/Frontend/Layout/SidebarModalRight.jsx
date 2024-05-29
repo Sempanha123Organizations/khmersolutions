@@ -44,7 +44,7 @@ const SidebarModalRight = (props) => {
                   <a
                     className="default-btn"
                     target="_blank"
-                    href="https://t.me/camgotech"
+                    href="https://t.me/sempanha123456"
                   >
                     Let’s Talk
                   </a>
@@ -66,11 +66,11 @@ const SidebarModalRight = (props) => {
                   <li>
                     <FontAwesomeIcon icon={faEnvelope}></FontAwesomeIcon>
                     <a
-                      href="mailto:info@camgotech.com"
+                      href="mailto:info@khmersolutions.com"
                       target="_blank"
                       rel="noreferrer"
                     >
-                      info@camgotech.com
+                      info@khmersolutions.com
                     </a>
                   </li>
                   <li>
@@ -83,7 +83,7 @@ const SidebarModalRight = (props) => {
               <ul className="sidebar-social-list">
                 <li>
                   <a
-                    href="https://www.facebook.com/camgotech"
+                    href="https://www.facebook.com/profile.php?id=61559922759720&mibextid=LQQJ4d"
                     target="_blank"
                     rel="noreferrer"
                   ></a>

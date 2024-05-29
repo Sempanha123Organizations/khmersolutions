@@ -64,14 +64,14 @@ const SidebarModalLeft = (props) => {
                   </li>
                   <li>
                     <FontAwesomeIcon icon={faEnvelope}></FontAwesomeIcon>
-                    <a href="mailto:info@camgotech.com">info@camgotech.com</a>
+                    <a href="mailto:info@khmersolutions.com">info@khmersolutions.com</a>
                   </li>
                 </ul>
               </div>
               <ul className="sidebar-social-list">
                 <li>
                   <a
-                    href="https://www.facebook.com/"
+                    href="https://www.facebook.com/profile.php?id=61559922759720&mibextid=LQQJ4d"
                     target="_blank"
                     rel="noreferrer"
                   >

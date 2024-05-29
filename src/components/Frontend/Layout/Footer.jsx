@@ -22,7 +22,7 @@ const Footer = () => {
           <div className="row justify-content-center">
             <div className="col-lg-3 col-md-6">
               <div className="single-footer-widget"  >
-                <h3>CAMGOTECH</h3>
+                <h3>Khmer Solutions</h3>
                 <p style={{ fontSize: '19px' }}>
                   We are ready to provide our best services to you with
                   reasonable cost and quality of services and the very best
